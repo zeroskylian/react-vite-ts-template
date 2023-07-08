@@ -50,6 +50,8 @@ module.exports = {
     quotes: [1, 'single'],
     semi: [1, 'always'],
     'no-extra-semi': 1,
-    'react/jsx-no-target-blank': 0
+    'react/jsx-no-target-blank': 0,
+    'react/jsx-uses-react': 'error',
+    'react/jsx-uses-vars': 'error'
   }
 };
