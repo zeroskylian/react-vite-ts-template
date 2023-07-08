@@ -30,5 +30,7 @@
     "eslint-plugin-react-refresh": "^0.4.1",
     "prettier": "^2.8.8",
     "typescript": "^5.0.2",
+    "typescript-plugin-css-modules": "^5.0.1",
     "vite": "^4.4.0"
-  }}
+  }
+}
